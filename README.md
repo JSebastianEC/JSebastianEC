@@ -24,9 +24,8 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JSebastianEC/JSebastianEC/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
+
 <div align = "center">
   <h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Stats</h2>
 </div>
