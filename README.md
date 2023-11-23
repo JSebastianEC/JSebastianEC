@@ -27,12 +27,16 @@
   
   <br/><br/><br/>
 </div>
+<div align = "center">
+  <h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Stats</h2>
+</div>
+  
+  <p align="left">
+    &nbsp;<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jsebastianec&show_icons=true&locale=en&theme=transparent" alt="jsebastianec" />
+    <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsebastianec&show_icons=true&locale=en&layout=compact&theme=transparent" alt="jsebastianec" />
+    
+  </p>
 
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsebastianec&show_icons=true&locale=en&layout=compact&theme=transparent" alt="jsebastianec" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsebastianec&show_icons=true&locale=en&theme=transparent" alt="jsebastianec" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsebastianec&theme=transparent" alt="jsebastianec" /></p>
-
+   <p align="center">
+     <img width="60.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jsebastianec&theme=transparent" alt="jsebastianec" />
+   </p>
